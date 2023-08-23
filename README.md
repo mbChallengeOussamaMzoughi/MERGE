@@ -11,7 +11,9 @@ This project is designed to parse and merge pairs of integers provided as string
 
 .
 ├── main.go # Contains the core logic for parsing and merging intervals
+
 ├── main_test.go # Contains the test cases of the main.go functionalities
+
 └── Makefile # Make commands for building and running the project
 
 
@@ -20,6 +22,7 @@ This project is designed to parse and merge pairs of integers provided as string
 ### Clone the Repository
 
 git clone https://github.com/mbChallengeOussamaMzoughi/MERGE.git
+
 cd ./MERGE
 
 
